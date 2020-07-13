@@ -1,0 +1,46 @@
+/Users/james_hargreaves/PycharmProjects/coup2/venv/bin/python /Users/james_hargreaves/PycharmProjects/coup2/main.py
+Using TensorFlow backend.
+With Counter Action
+Playing with 1 AIs
+2020-04-24 18:14:50.554896: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2020-04-24 18:14:50.569298: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x133b7bc00 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-04-24 18:14:50.569316: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+100%|██████████| 3000/3000 [07:44<00:00,  6.46it/s]
+  0%|          | 6/3000 [00:01<12:36,  3.96it/s]1185
+Playing with 1 AIs
+100%|██████████| 3000/3000 [07:31<00:00,  6.64it/s]
+  2%|▏         | 61/3000 [00:09<07:06,  6.88it/s]1427
+Playing with 1 AIs
+100%|██████████| 3000/3000 [07:36<00:00,  6.58it/s]
+  1%|          | 22/3000 [00:03<07:16,  6.82it/s]1364
+Playing with 1 AIs
+100%|██████████| 3000/3000 [07:35<00:00,  6.58it/s]
+  4%|▍         | 116/3000 [00:17<07:11,  6.68it/s]1429
+Playing with 1 AIs
+100%|██████████| 3000/3000 [07:35<00:00,  6.59it/s]
+  3%|▎         | 79/3000 [00:11<07:14,  6.73it/s]1340
+Playing with 1 AIs
+100%|██████████| 3000/3000 [07:35<00:00,  6.59it/s]
+  2%|▏         | 51/3000 [00:07<07:09,  6.87it/s]1339
+Playing with 1 AIs
+100%|██████████| 3000/3000 [07:32<00:00,  6.64it/s]
+  1%|          | 26/3000 [00:04<07:38,  6.48it/s]1229
+Playing with 1 AIs
+100%|██████████| 3000/3000 [07:35<00:00,  6.58it/s]
+  2%|▏         | 55/3000 [00:08<07:10,  6.84it/s]1476
+Playing with 1 AIs
+100%|██████████| 3000/3000 [07:33<00:00,  6.62it/s]
+  4%|▍         | 125/3000 [00:18<07:16,  6.58it/s]1281
+Playing with 1 AIs
+100%|██████████| 3000/3000 [07:35<00:00,  6.59it/s]
+  4%|▍         | 134/3000 [00:19<07:15,  6.58it/s]1291
+Playing with 1 AIs
+100%|██████████| 3000/3000 [07:35<00:00,  6.59it/s]
+  3%|▎         | 97/3000 [00:14<07:04,  6.83it/s]1363
+Playing with 1 AIs
+100%|██████████| 3000/3000 [07:33<00:00,  6.62it/s]
+  2%|▏         | 60/3000 [00:08<07:19,  6.69it/s]1387
+Playing with 1 AIs
+100%|██████████| 3000/3000 [07:50<00:00,  6.37it/s]
+  0%|          | 7/3000 [00:00<04:22, 11.41it/s]1423
+Playing with 1 AIs
